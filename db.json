@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Notebook",
+      "price": 300.99
+    },
+    {
+      "name": "Carri",
+      "price": "12500.52",
+      "id": 4
+    },
+    {
+      "name": "Mouse gamer",
+      "price": "152.12",
+      "id": 5
+    },
+    {
+      "name": "Cafézinho",
+      "price": "15",
+      "id": 6
+    },
+    {
+      "name": "sucoi",
+      "price": "5",
+      "id": 7
+    },
+    {
+      "name": "novo produto teste",
+      "price": "80",
+      "id": 8
+    },
+    {
+      "name": "Pastel",
+      "price": "9000",
+      "id": 9
+    },
+    {
+      "name": "caldo de cana",
+      "price": "50",
+      "id": 12
+    }
+  ]
+}
